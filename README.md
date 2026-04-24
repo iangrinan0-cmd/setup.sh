@@ -28,14 +28,14 @@ Compatible con múltiples distribuciones y gestores de paquetes, con instalació
 ### 1. Descargar el script
 
 ```bash
-git clone <tu-repo>
-cd <tu-repo>
+git clone <https://github.com/iangrinan0-cmd/setup.sh/blob/main/README.md>
+cd <setup.sh>
 ```
 
 O:
 
 ```bash
-curl -O setup.sh
+curl -O https://github.com/iangrinan0-cmd/setup.sh/blob/main/README.md
 ```
 
 ---
